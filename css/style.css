@@ -1,0 +1,16 @@
+body {
+  background-color: #262626;
+  color: #fff;
+  font-family: Arial;
+  font-size: 32px;
+  transition: .2s;
+}
+
+.list-item {
+  font-size: 42px;
+  color: pink;
+}
+li:hover {
+  color: pink;
+  cursor: pointer;
+}
